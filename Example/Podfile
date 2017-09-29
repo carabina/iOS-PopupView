@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOS-PopupView_Example' do
+  pod 'iOS-PopupView', :path => '../'
+
+  target 'iOS-PopupView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
