@@ -1,6 +1,6 @@
 import UIKit
 import XCTest
-import iOS-PopupView
+
 
 class Tests: XCTestCase {
     

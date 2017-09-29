@@ -5,7 +5,6 @@ target 'iOS-PopupView_Example' do
 
   target 'iOS-PopupView_Tests' do
     inherit! :search_paths
-
     
   end
 end
