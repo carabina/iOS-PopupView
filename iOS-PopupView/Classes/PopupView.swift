@@ -18,6 +18,7 @@ public class PopupView: NSObject {
         guard let rootView = UIApplication.shared.keyWindow else {
             return
         }
+        
         backgroundView.backgroundColor = backgroundColor
         backgroundView.autoresizingMask = [.flexibleWidth, .flexibleHeight]
         backgroundView.frame = rootView.bounds
