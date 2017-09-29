@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iOS-PopupView'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'This lib written by Swift 4 (iOS-PopupView).'
 
   s.homepage         = 'https://github.com/iAmSnow/iOS-PopupView'
